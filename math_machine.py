@@ -1,5 +1,4 @@
 import math
-
 def potencia():
     base = int(input("\nvalor da base: "))
     exp = int(input("\nvalor do expoente: "))
